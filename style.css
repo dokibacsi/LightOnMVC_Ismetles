@@ -1,0 +1,15 @@
+#gameSpace{
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 300px;
+
+}
+
+.lamp{
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
